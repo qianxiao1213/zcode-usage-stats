@@ -1,7 +1,7 @@
 {
   "name": "zcode-usage-stats",
-  "version": "0.1.0",
-  "description": "仿zcode的使用统计：在 DeepSeek Harness(DSH) 设置页渲染全量会话的 Token 用量统计——按天/按小时趋势图、模型用量仪表盘、活跃热力图，支持今天/昨天/最近7·30天/本月/上月/自定义区间。",
+  "version": "0.2.0",
+  "description": "仿zcode的使用统计：在 DeepSeek Harness(DSH) 设置页渲染全量会话的 Token 用量统计——按天/按小时趋势图、模型用量仪表盘、活跃热力图，支持今天/昨天/最近7·30天/本月/上月/全部(累积，长区间自动按周/月/季度聚合)/自定义区间。",
   "type": "module",
   "main": "./lib/index.mjs",
   "exports": {
